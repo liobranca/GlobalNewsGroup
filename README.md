@@ -1,2 +1,2 @@
 # GlobalNewsGroup
-App para mobile, sobre creación de encuest
+App para mobile, sobre creación de encuestas

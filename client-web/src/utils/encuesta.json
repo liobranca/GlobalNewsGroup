@@ -1,0 +1,43 @@
+{
+    "name": "Encuesta 1",
+    "description": "probando encuesta",
+    "questionAndAnswer": [
+      {
+        "type": "desarollo_libre",
+        "Pregunta": "Si solo pudieras comer una sola cosa durante el resto de tu vida, ¿cuál sería?",
+        "Respuesta": ""
+      },
+      {
+        "type": "multiple_opcion",
+        "Pregunta": "¿Prefieres ser experto en una sola cosa o ser simplemente bueno en todas?",
+        "respuesta": [
+          "Bueno en todo",
+          "En una sola cosa",
+          "Me da igual"
+        ]
+      },
+      {
+        "type": "respuesta_unica",
+        "Pregunta": "Pregunta numero 3",
+        "respuesta": [
+          "posibleRespuesta1",
+          "posibleRespuesta2"
+        ]
+      },
+      {
+        "type": "desarollo_libre",
+        "Pregunta": "Si solo pudieras comer una sola cosa durante el resto de tu vida, ¿cuál seríaAAAAAAAA?",
+        "Respuesta": ""
+      }, {
+        "type": "multiple_opcion",
+        "Pregunta": "¿Prefieres ser experto en una sola cosa o ser simplemente bueno en todas?",
+        "respuesta": [
+          "Bueno en todo",
+          "En una sola cosa",
+          "Me da igual"
+        ]
+      }
+
+    ],
+    "scheduledSend": "2022-10-21"
+  }
